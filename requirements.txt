@@ -1,1 +1,5 @@
-
+In order to run program you need to install following libraries:pyjwt,flask,flask_sqlalchemy
+In order to install pyjwt,flask,flask_sqlalchemy libraries, you need to use following commands in your terminal
+-pip install PyJWT
+-pip install Flask
+-pip install Flask-SQLAlchemy
